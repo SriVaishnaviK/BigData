@@ -1,8 +1,3 @@
-# 1. Big Data with example and types
-6 ‘V’s of Big Data (define each)
-- Phases of Big Data analysis (discuss each)
-- Challenges in Big Data analysis (discuss each)
-
 # Big Data with examples and types:
 
 Big data in simple terms is vast amount of data which is so complex that none of the traditional data storage or data processing tools can be applied. It is data from various sources which can be structured, unstructured or semi structured data.
